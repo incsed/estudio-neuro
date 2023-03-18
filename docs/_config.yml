@@ -15,7 +15,7 @@ title                    : "Estudio neurocognición"
 title_separator          : "-"
 subtitle                 : "Laboratorio de Neurocognición Social"
 name                     : &name "neurocogcialab" # &name is a YAML anchor which can be *referenced later
-description              : &description "P"
+description              : &description "Página del estudio de neurodesarrollo"
 url                      : https://incsed.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/estudio-neuro" # the subpath of your site, e.g. "/blog"
 repository               : "incsed/estudio-neuro"
