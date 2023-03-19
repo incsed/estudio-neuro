@@ -24,10 +24,10 @@ main:
     url: /docs/quick-start-guide/
   - title: "Conócenos"
     url: /about/
-  - title: "Sample Posts"
+  - title: "Noticias"
     url: /year-archive/
-  #- title: "Sample Collections"
-  #  url: /collection-archive/
+  - title: "Sitios de interés"
+    url: /collection-archive/
   - title: "Aviso de privacidad"
     url: /terms/
 

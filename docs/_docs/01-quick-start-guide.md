@@ -2,7 +2,7 @@
 title: "Preguntas frecuentes"
 permalink: /docs/quick-start-guide/
 excerpt: "Dudas sobre nuestro estudio"
-last_modified_at: 2021-06-07T08:48:05-04:00
+last_modified_at: 2023-06-07T08:48:05-04:00
 redirect_from:
   - /theme-setup/
 toc: true

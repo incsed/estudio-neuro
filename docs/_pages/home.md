@@ -12,12 +12,12 @@ excerpt: >
   ¿Te has sentido triste, ansioso, estresado?
   ¿Te has preguntado cómo madura nuestro cerebro?
   Colabora con nosotros para descubrirlo. El Laboratorio de Neurocognición Social de la Facultad de Psicología de la UNAM invita a adolescentes entre 14 y 17 años y adultos de 25 a 35 años, sin importar sexo y sin hijos, a participar en un estudio de neurodesarrollo<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Consulta los requisitos completos</a></small>
+  <small><a href="https://incsed.github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Consulta los requisitos completos</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "Investigación"
     title: "¿De qué se trata el estudio?"
-    excerpt: "Entre los temas que busca abordar este estudio es la relación que existe entre los neurotransmisores y los síntomas de depresión, ansiedad y estrés."
+    excerpt: "El objetivo de este estudio es analizar la forma en que los cambios cognitivos, afectivos y cerebrales ocurren en las diferentes etapas de la reproducción en humanos. Entre los temas que busca abordar este estudio es la relación que existe entre los neurotransmisores y los síntomas de depresión, ansiedad y estrés."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Leer más"
@@ -25,11 +25,16 @@ feature_row:
     alt: "Requisitos"
     title: "Requisitos"
     excerpt: "- Adolescentes: 14-17 años.
+
     - Adultos: 24-35 años.
+
     - Sexo indistinto.
-    - Diestras
-    - Acceso a equipo de computo e internet
-    - No tener antecedentes de hospitalizaciones psiquiátricas o neurológicas"
+
+    - Diestras.
+
+    - Acceso a equipo de computo e internet.
+
+    - No tener antecedentes de hospitalizaciones psiquiátricas o neurológicas."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Leer más"
