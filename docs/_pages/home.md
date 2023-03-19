@@ -26,7 +26,10 @@ feature_row:
     title: "Requisitos"
     excerpt: "- Adolescentes: 14-17 años.
     - Adultos: 24-35 años.
-    - Sexo indistinto."
+    - Sexo indistinto.
+    - Diestras
+    - Acceso a equipo de computo e internet
+    - No tener antecedentes de hospitalizaciones psiquiátricas o neurológicas"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Leer más"
@@ -44,6 +47,16 @@ feature_row:
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Leer más"
+  - image_path: /assets/images/mm-responsive-feature.png
+    alt: "Contacto"
+    title: "Contáctanos"
+    excerpt: "Tienes alguna pregunta o comentario. No dudes en contactarnos por nuestras redes sociales.
+    <i class='fab fa-whatsapp'></i> (442)35-66-34-3 
+    <i class='fas fa-envelope'></i> participa@neurocogcialab.org
+    "
+    url: "mailto://participa@neurocogcialab.org"
+    btn_class: "btn--primary"
+    btn_label: "Contacto"
 ---
 
 {% include feature_row %}

@@ -20,23 +20,23 @@ foo:
 
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "Preguntas frecuentes"
     url: /docs/quick-start-guide/
-  - title: "About"
+  - title: "Conócenos"
     url: /about/
   - title: "Sample Posts"
     url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
+  #- title: "Sample Collections"
+  #  url: /collection-archive/
+  - title: "Aviso de privacidad"
     url: /terms/
 
 
 # documentation links
 docs:
-  - title: Getting Started
+  - title: Valoración psicométrica
     children:
-      - title: "Quick-Start Guide"
+      - title: "¿En qué consisten las pruebas?"
         url: /docs/quick-start-guide/
       - title: "Structure"
         url: /docs/structure/
@@ -44,29 +44,29 @@ docs:
         url: /docs/installation/
       - title: "Upgrading"
         url: /docs/upgrading/
-  - title: Customization
+  - title: Estudio de resonancia magnética
     children:
-      - title: "Configuration"
+      - title: "¿Qué es la resonancia magnética?"
         url: /docs/configuration/
-      - title: "Overriding Theme Defaults"
+      - title: "¿Es seguro?"
         url: /docs/overriding-theme-defaults/
-      - title: "Navigation"
+      - title: "¿Cuáles son los riesgos?"
         url: /docs/navigation/
-      - title: "UI Text"
+      - title: "¿Qué no se puede ingresar al resonador?"
         url: /docs/ui-text/
-      - title: "Authors"
+      - title: "¿Dónde se realiza el estudio?"
         url: /docs/authors/
-      - title: "Layouts"
+      - title: "¿Qué pasa si encuentran algo en mi estudio?"
         url: /docs/layouts/
-  - title: Content
+  - title: Información para padres y tutores
     children:
-      - title: "Working with Posts"
+      - title: "¿Quiénes son los responsables?"
         url: /docs/posts/
-      - title: "Working with Pages"
+      - title: "¿Cómo se utilizarán mis datos?"
         url: /docs/pages/
-      - title: "Working with Collections"
+      - title: "¿Puedo retirarme en cualquier momento?"
         url: /docs/collections/
-      - title: "Helpers"
+      - title: "Tengo antecedentes de ... Puedo participar"
         url: /docs/helpers/
       - title: "Utility Classes"
         url: /docs/utility-classes/

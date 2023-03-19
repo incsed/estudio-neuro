@@ -8,7 +8,7 @@ redirect_from:
 toc: true
 ---
 
-Minimal Mistakes has been developed as a [Gem-based theme](http://jekyllrb.com/docs/themes/) for easier use, and 100% compatible with GitHub Pages when used as a remote theme.
+A continuación te presentamos algunas dudas frecuentes sobre nuestro estudio. Si hay algo más que te gustaría saber, por favor, no dudes en comunicarte con nosotros.
 
 **If you enjoy this theme, please consider [sponsoring me](https://github.com/sponsors/mmistakes) to continue developing and maintaining it.**
 
@@ -17,21 +17,19 @@ Minimal Mistakes has been developed as a [Gem-based theme](http://jekyllrb.com/d
 [![Support via PayPal](https://cdn.jsdelivr.net/gh/twolfson/paypal-github-button@1.0.0/dist/button.svg)](https://www.paypal.me/mmistakes)
 {: style="margin-top: 0.5em;"}
 
-## Installing the theme
-
-If you're running Jekyll v3.7+ and self-hosting you can quickly install the theme as a Ruby gem.
+## Valoración psicométrica
 
 [^structure]: See [**Structure** page]({{ "/docs/structure/" | relative_url }}) for a list of theme files and what they do.
 
 **ProTip:** Be sure to remove `/docs` and `/test` if you forked Minimal Mistakes. These folders contain documentation and test pages for the theme and you probably don't want them littering up your repo.
 {: .notice--info}
 
-**Note:** The theme uses the [jekyll-include-cache](https://github.com/benbalter/jekyll-include-cache) plugin which will need to be installed in your `Gemfile` and added to the `plugins` array of `_config.yml`. Otherwise you'll throw `Unknown tag 'include_cached'` errors at build.
+**Importante:** Si eres menor de edad, se debe firmar el consentimiento informado por parte del *adulto* responsable.
 {: .notice--warning}
 
-### Gem-based method
+### ¿En qué consisten las pruebas?
 
-With Gem-based themes, directories such as the `assets`, `_layouts`, `_includes`, and `_sass` are stored in the theme’s gem, hidden from your immediate view. This allows for easier installation and updating as you don't have to manage any of the theme files. 
+Se aplicarán un par de cuestionarios en línea que contienen datos sociodemográficos, así como escalas para medir diversos rasgos de personalidad.
 
 To install as a Gem-based theme:
 
@@ -55,36 +53,6 @@ To install as a Gem-based theme:
 
 To update the theme run `bundle update`.
 
-### Remote theme method
-
-Remote themes are similar to Gem-based themes, but do not require `Gemfile` changes or whitelisting making them ideal for sites hosted with GitHub Pages.
-
-To install as a remote theme:
-
-1. Create/replace the contents of your `Gemfile` with the following:
-
-   ```ruby
-   source "https://rubygems.org"
-
-   gem "github-pages", group: :jekyll_plugins
-   gem "jekyll-include-cache", group: :jekyll_plugins
-   ```
-
-2. Add `jekyll-include-cache` to the `plugins` array of your `_config.yml`.
-
-3. Fetch and update bundled gems by running the following [Bundler](https://bundler.io/) command:
-
-   ```bash
-   bundle
-   ```
-
-4. Add `remote_theme: "mmistakes/minimal-mistakes@4.24.0"` to your `_config.yml` file. Remove any other `theme:` or `remote_theme:` entry.
-
-You may also optionally specify a branch, [tag](https://github.com/mmistakes/minimal-mistakes/tags), or commit to use by appending an @ and the Git ref (e.g., `mmistakes/minimal-mistakes@4.9.0` or `mmistakes/minimal-mistakes@bbf3cbc5fd64a3e1885f3f99eb90ba92af84063d`). This is useful when rolling back to older versions of the theme. If you don't specify a Git ref, the latest on `master` will be used.
-
-**Looking for an example?** Use the [Minimal Mistakes remote theme starter](https://github.com/mmistakes/mm-github-pages-starter/generate) for the quickest method of getting a GitHub Pages hosted site up and running. Generate a new repository from the starter, replace sample content with your own, and configure as needed.
-{: .notice--info}
-
 ---
 
 **Note:** Your Jekyll site should be viewable immediately at <http://USERNAME.github.io>. If it's not, you can force a rebuild by **Customizing Your Site** (see below for more details).
@@ -100,119 +68,52 @@ You can also install the theme by copying all of the theme files[^structure] int
 
 To do so fork the [Minimal Mistakes theme](https://github.com/mmistakes/minimal-mistakes/fork), then rename the repo to **USERNAME.github.io** --- replacing **USERNAME** with your GitHub username.
 
-<figure>
-  <img src="{{ '/assets/images/mm-theme-fork-repo.png' | relative_url }}" alt="fork Minimal Mistakes">
-</figure>
+## Estudio de resonancia magnética
 
-**GitHub Pages Alternatives:** Looking to host your site for free and install/update the theme painlessly? [Netlify][netlify-jekyll], [GitLab Pages][gitlab-jekyll], and [Continuous Integration (CI) services][ci-jekyll] have you covered. In most cases all you need to do is connect your repository to them, create a simple configuration file, and install the theme following the [Ruby Gem Method](#ruby-gem-method) above.
+**ProTip:** Si cumples con los requisitos y tienes disponibilidad para asistir al estudio, agendaremos contigo una cita en la [Unidad de Resonancia Magnética del Instituto de Neurobiología de la UNAM en Juriquilla, Querétaro.](http://www.lanirem.inb.unam.mx/)
 {: .notice--info}
 
-[netlify-jekyll]: https://www.netlify.com/blog/2015/10/28/a-step-by-step-guide-jekyll-3.0-on-netlify/
-[gitlab-jekyll]: https://about.gitlab.com/2016/04/07/gitlab-pages-setup/
-[ci-jekyll]: https://jekyllrb.com/docs/deployment/automated/#continuous-integration-service
+### ¿Qué es la resonancia magnética?
 
-### Remove the Unnecessary
+La técnica de imagen por resonancia magnética es una técnica segura, no invasiva y que no provoca efectos secundarios. Permite obtener imágenes estructurales y funcionales del interior del cuerpo humano. 
 
-If you forked or downloaded the `minimal-mistakes-jekyll` repo you can safely remove the following folders and files:
+### ¿Qué puede esperar durante el procedimiento?
 
-- `.editorconfig`
-- `.gitattributes`
-- `.github`
-- `/docs`
-- `/test`
-- `CHANGELOG.md`
-- `minimal-mistakes-jekyll.gemspec`
-- `README.md`
-- `screenshot-layouts.png`
-- `screenshot.png`
+Al llegar a la Unidad de Resonancia, uno de nuestros investigadores le tomará sus datos y le explicará las tareas que realizará dentro del resonador. Después pasará por un detector de metales para garantizar que no haya objetos que puedan interferir con el campo magnético. Al entrar el equipo en funcionamiento puede experimentar un lígero cosquilleo y la máquina emitirá ruidos que pueden llegar a ser molestos por lo que se le colocarán unos tapones para los oídos. Esto es completamente normal. Una vez dentro del resonador se le pedirá que permanezca lo más inmóvil posible, cada tarea tiene una duración aproximada de 10 minutos y al finalizar cada prueba podrá volver a acomodarse. Es importante que se encuentre lo más relajado/a posible y recuerde que se encuentra en un espacio seguro y monitoreado; si en cualquier momento llegara a experimentar alguna incomodidad puede comunicarlo de inmediato al equipo de investigación. 
+Al terminar se le pedirá contestar unas preguntas sobre su experiencia en el resonandor y se le entregarán sus imágenes y su compensación.
 
-**Note:** If forking the theme be sure to update `Gemfile` as well. The one found at the root of the project is for building the theme's Ruby gem and is missing dependencies. To properly setup a [`Gemfile`](https://github.com/mmistakes/minimal-mistakes/blob/master/docs/Gemfile) with the theme, consult the "[Install Dependencies](https://mmistakes.github.io/minimal-mistakes/docs/installation/#install-dependencies)" section.
-{: .notice--warning}
+### ¿Cuál es la duración del procedimiento?
 
-## Setup Your Site
+La duración aproximada de la sesión es de hora y media. 
 
-Depending on the path you took installing Minimal Mistakes you'll setup things a little differently.
+### ¿Qué elementos no pueden introducirse al resonador?
 
-**ProTip:** The source code and content files for this site can be found in the [`/docs` folder](https://github.com/mmistakes/minimal-mistakes/tree/master/docs) if you want to copy or learn from them.
-{: .notice--info}
-
-### Starting Fresh
-
-Starting with an empty folder and `Gemfile` you'll need to copy or re-create this [default `_config.yml`](https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml) file. For a full explanation of every setting be sure to read the [**Configuration**]({{ "/docs/configuration/" | relative_url }}) section.
-
-From `v4.5.0` onwards, Minimal Mistakes theme-gem comes bundled with the necessary data files for localization.
-They will be picked up automatically if you have the [`jekyll-data`](https://github.com/ashmaroli/jekyll-data) plugin installed.
-If you're hosting on GitHub Pages, you can copy the [`_data/ui-text.yml`][ui-text.yml] file into your repository for the localization feature to work.
-
-You'll need to create and edit these data files to customize them:
-
-- [`_data/ui-text.yml`][ui-text.yml] - UI text [documentation]({{ "/docs/ui-text/" | relative_url }})
-- [`_data/navigation.yml`][navigation.yml] - navigation [documentation]({{ "/docs/navigation/" | relative_url }})
-
-  [ui-text.yml]: https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
-  [navigation.yml]: https://github.com/mmistakes/minimal-mistakes/blob/master/_data/navigation.yml
-
-### Starting from `jekyll new`
-
-Scaffolding out a site with the `jekyll new` command requires you to modify a few files that it creates.
-
-Edit `_config.yml`. Then:
-
-- Replace `<site root>/index.md` with a modified [Minimal Mistakes `index.html`](https://github.com/mmistakes/minimal-mistakes/blob/master/index.html). Be sure to enable pagination if using the [`home` layout]({{ "/docs/layouts/#home-page" | relative_url }}) by adding the necessary lines to **_config.yml**.
-- Change `layout: post` in `_posts/0000-00-00-welcome-to-jekyll.markdown` to `layout: single`.
-- Remove `about.md`, or at the very least change `layout: page` to `layout: single` and remove references to `icon-github.html` (or [copy to your `_includes`](https://github.com/jekyll/minima/tree/master/_includes) if using it).
-
-### Migrating to Gem Version
-
-If you're migrating a site already using Minimal Mistakes and haven't customized any of the theme files things upgrading will be easier for you.
-
-Start by removing the following folders and any files within them: 
-
-```terminal
-├── _includes
-├── _layouts
-├── _sass
-├── assets
-|  ├── css
-|  ├── fonts
-|  └── js
-```
-
-You won't need these anymore as they're bundled with the theme gem --- unless you intend to [override them](https://jekyllrb.com/docs/themes/#overriding-theme-defaults).
-
-**Note:** When clearing out the `assets` folder be sure to leave any files you've added and need. This includes images, CSS, or JavaScript that aren't already [bundled in the theme](https://github.com/mmistakes/minimal-mistakes/tree/master/assets). 
-{: .notice--warning}
-
-From `v4.5.0` onwards, the default language files are read-in automatically via the [`jekyll-data`](https://github.com/ashmaroli/jekyll-data) plugin if it's installed. For sites hosted with GitHub Pages, you still need to copy the [`_data/ui-text.yml`][ui-text.yml] file because the `jekyll-data` plugin [is unsupported on GitHub Pages](https://docs.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll#plugins).
-
-If you customized any of these files leave them alone, and only remove the untouched ones. If done correctly your modified versions should [override](https://jekyllrb.com/docs/themes/#overriding-theme-defaults) the versions bundled with the theme and be used by Jekyll instead.
-
-#### Update Gemfile
-
-Replace `gem "github-pages` or `gem "jekyll"` with `gem "jekyll", "~> 3.5"`. You'll need the latest version of Jekyll[^update-jekyll] for Minimal Mistakes to work and load all of the theme's assets properly, this line forces Bundler to do that.
-
-[^update-jekyll]: You could also run `bundle update jekyll` to update Jekyll.
-
-Add the Minimal Mistakes theme gem: 
-
-```ruby
-gem "minimal-mistakes-jekyll"
-```
-
-When finished your `Gemfile` should look something like this:
-
-```ruby
-source "https://rubygems.org"
-
-gem "jekyll", "~> 3.7"
-gem "minimal-mistakes-jekyll"
-```
-
-Then run `bundle update` and add `theme: minimal-mistakes-jekyll` to your `_config.yml`.
-
-**v4 Breaking Change:** Paths for image headers, overlays, teasers, [galleries]({{ "/docs/helpers/#gallery" | relative_url }}), and [feature rows]({{ "/docs/helpers/#feature-row" | relative_url }}) have changed and now require a full path. Instead of just `image: filename.jpg` you'll need to use the full path eg: `image: /assets/images/filename.jpg`. The preferred location is now `/assets/images/` but can be placed elsewhere or externally hosted. This applies to image references in `_config.yml` and `author.yml` as well.
+Debido a la intensidad del campo magnético que se genera es importante retirar todo objeto metálico dentro del cuarto dónde se encuentra el resonador. En el caso de implantes estos pueden afectar las imágenes resultantes o calentarse por lo que es necesario indicar previamente la presencia de alguno.
 {: .notice--danger}
 
----
+### ¿Qué riesgos conlleva?
 
-That's it! If all goes well running `bundle exec jekyll serve` should spin-up your site.
+Si se siguen las indicaciones anteriores, la técnica de RM es muy segura, tampoco conlleva efectos secundarios ni requiere la administración de sustancias externas para este estudio 
+
+### ¿Qué pasa si encuentran "algo" en mi estudio?
+
+Todos los cerebros son diferentes y presentan ligeras variaciones, en caso de encontrar sospechas de algo que pudiera comprometer su salud, se le notificara de inmediato y se le ofrecerá asesoría para que pueda consultar con un especialista.
+
+## Información para los participantes
+
+**Importante:** Todos los participantes deben firmar el consentimiento informado tanto del estudio como de la Unidad de Resonancia. En el caso de menores de edad, ambos deben ser firmados por el tutor o tutora responsable. Tanto el consentimiento como el aviso de privacidad puede encontrarse [aqui]({{ "/docs/helpers/#gallery" | relative_url }}), and [feature rows]({{ "/docs/helpers/#feature-row" | relative_url }})
+{: .notice--warning}
+
+[^structure]: See [**Structure** page]({{ "/docs/structure/" | relative_url }}) for a list of theme files and what they do.
+
+### ¿Quiénes son los responsables?
+
+Este estudio ha sido aprobado por el comité de ética de la Facultad de Psicología y forma parte de los proyectos de investigación del Laboratorio de Neurocognición Social de la misma, a cargo de la Dra. Azalea Reyes Aguilar
+
+### ¿Cómo se utilizarán mis datos?
+
+La información derivada de este estudio será manejada de forma confidencial y anónima, Tus datos personales se utilizarán únicamente con fines de investigación y jamás se compartirán con terceros.
+
+### ¿Puedo retirarme en cualquier momento?
+
+Así es, tu participación en esta investigación es voluntaria y no remunerada, y puedes retirarte del estudio si así lo deseas en cualquier momento, sin ninguna consecuencia o restricción.
