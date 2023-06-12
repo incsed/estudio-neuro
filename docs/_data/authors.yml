@@ -3,7 +3,8 @@
 Neurocogcialab:
   name        : "Laboratorio de Neurocognición Social"
   bio         : "Facultad de Psicología, Universidad Nacional Autónoma de México"
-  avatar      : "/assets/images/Escudo-UNAM-gris-01-267x300.png"
+  #avatar      : "/assets/images/Escudo-UNAM-gris-01-267x300.png"
+  avatar      : "/assets/images/lab_git.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
