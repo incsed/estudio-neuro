@@ -26,10 +26,10 @@ main:
     url: /about/
   - title: "Noticias"
     url: /year-archive/
-  - title: "Sitios de interés"
-    url: /collection-archive/
-  - title: "Aviso de privacidad"
-    url: /terms/
+  #- title: "Sitios de interés"
+  #  url: /collection-archive/
+  #- title: "Aviso de privacidad"
+  #  url: /terms/
 
 
 # documentation links
