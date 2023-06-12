@@ -24,12 +24,12 @@ main:
     url: /docs/quick-start-guide/
   - title: "Conócenos"
     url: /about/
-  - title: "Noticias"
-    url: /year-archive/
+  #- title: "Noticias"
+  #  url: /year-archive/
   #- title: "Sitios de interés"
   #  url: /collection-archive/
-  #- title: "Aviso de privacidad"
-  #  url: /terms/
+  - title: "Aviso de privacidad"
+    url: /terms/
 
 
 # documentation links
