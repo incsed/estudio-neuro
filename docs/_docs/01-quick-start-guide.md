@@ -10,19 +10,7 @@ toc: true
 
 A continuación te presentamos algunas dudas frecuentes sobre nuestro estudio. Si hay algo más que te gustaría saber, por favor, no dudes en comunicarte con nosotros.
 
-**If you enjoy this theme, please consider [sponsoring me](https://github.com/sponsors/mmistakes) to continue developing and maintaining it.**
-
-[!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/mmistakes)
-
-[![Support via PayPal](https://cdn.jsdelivr.net/gh/twolfson/paypal-github-button@1.0.0/dist/button.svg)](https://www.paypal.me/mmistakes)
-{: style="margin-top: 0.5em;"}
-
 ## Valoración psicométrica
-
-[^structure]: See [**Structure** page]({{ "/docs/structure/" | relative_url }}) for a list of theme files and what they do.
-
-**ProTip:** Be sure to remove `/docs` and `/test` if you forked Minimal Mistakes. These folders contain documentation and test pages for the theme and you probably don't want them littering up your repo.
-{: .notice--info}
 
 **Importante:** Si eres menor de edad, se debe firmar el consentimiento informado por parte del *adulto* responsable.
 {: .notice--warning}
@@ -30,43 +18,6 @@ A continuación te presentamos algunas dudas frecuentes sobre nuestro estudio. S
 ### ¿En qué consisten las pruebas?
 
 Se aplicarán un par de cuestionarios en línea que contienen datos sociodemográficos, así como escalas para medir diversos rasgos de personalidad.
-
-To install as a Gem-based theme:
-
-1. Add the following to your `Gemfile`:
-
-   ```ruby
-   gem "minimal-mistakes-jekyll"
-   ```
-
-2. Fetch and update bundled gems by running the following [Bundler](https://bundler.io/) command:
-
-   ```bash
-   bundle
-   ```
-
-3. Set the `theme` in your project's Jekyll `_config.yml` file:
-
-   ```yaml
-   theme: minimal-mistakes-jekyll
-   ```
-
-To update the theme run `bundle update`.
-
----
-
-**Note:** Your Jekyll site should be viewable immediately at <http://USERNAME.github.io>. If it's not, you can force a rebuild by **Customizing Your Site** (see below for more details).
-{: .notice--warning}
-
-If you're hosting several Jekyll based sites under the same GitHub username you will have to use Project Pages instead of User Pages. Essentially you rename the repo to something other than **USERNAME.github.io** and create a `gh-pages` branch off of `master`. For more details on how to set things up check [GitHub's documentation](https://help.github.com/articles/user-organization-and-project-pages/).
-
-<figure>
-  <img src="{{ '/assets/images/mm-gh-pages.gif' | relative_url }}" alt="creating a new branch on GitHub">
-</figure>
-
-You can also install the theme by copying all of the theme files[^structure] into your project.
-
-To do so fork the [Minimal Mistakes theme](https://github.com/mmistakes/minimal-mistakes/fork), then rename the repo to **USERNAME.github.io** --- replacing **USERNAME** with your GitHub username.
 
 ## Estudio de resonancia magnética
 
@@ -101,10 +52,8 @@ Todos los cerebros son diferentes y presentan ligeras variaciones, en caso de en
 
 ## Información para los participantes
 
-**Importante:** Todos los participantes deben firmar el consentimiento informado tanto del estudio como de la Unidad de Resonancia. En el caso de menores de edad, ambos deben ser firmados por el tutor o tutora responsable. Tanto el consentimiento como el aviso de privacidad puede encontrarse [aqui]({{ "/docs/helpers/#gallery" | relative_url }}), and [feature rows]({{ "/docs/helpers/#feature-row" | relative_url }})
+**Importante:** Todos los participantes deben firmar el consentimiento informado tanto del estudio como de la Unidad de Resonancia. En el caso de menores de edad, ambos deben ser firmados por el tutor o tutora responsable. Tanto el consentimiento como el aviso de privacidad puede encontrarse [aqui]({{ "/docs/helpers/#gallery" | relative_url }}).
 {: .notice--warning}
-
-[^structure]: See [**Structure** page]({{ "/docs/structure/" | relative_url }}) for a list of theme files and what they do.
 
 ### ¿Quiénes son los responsables?
 
