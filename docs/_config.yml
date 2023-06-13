@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/Escudo-UNAM-gris-01-267x300.png"
+  avatar           : "/assets/images/lab_git.jpg"
   bio              : "Facultad de Psicología, UNAM"
   location         : "Ciudad de México"
   links:
